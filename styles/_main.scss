@@ -1,0 +1,66 @@
+// *------------------------Section Overlap-------------------------
+
+.overlap-group {
+  padding: 20rem;
+
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3)
+    ),
+    url("https://s3-alpha-sig.figma.com/img/1131/4362/dd953143a8a4d9f86ec8d71afc0e8103?Expires=1702252800&Signature=FkIqtquQiEjkDTdfPPQ10sSfz34KwCaSnsUjuATxnuuB1Nu2LaERtaE~doQ0wS492cmMvGwFsq2c727YmVsuwy4cQgnUEB2BakPisYe-kGGA5mnTW0Qp7bjjtm~BvpMlBCl~ksoWtswTXTOi6BzzQ49Nsi4loGV4XdjAC0NQ~5Tz0wahfgr53znh2jNjfvfgozQ3GRYZCh11fmQ2buCEsOFQiDgGQGEN1EU~gLz3lQwofaxKLPiFxfDU-yACbiol4qWJeKJUbeukkLh-PW4bQos57tbjDvlHpYZAxHCrxRowDjCSCoTleDeSh7JpiAP8rjJ7HjjOuxV1MvZf4KZhcA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+
+  text-align: center;
+  color: $white;
+  font-size: 44px;
+  font-weight: 900;
+}
+
+// *----------------------------Section FEATURE-------------------------
+
+.feature_img {
+  background-color: $light-gray-blue;
+  text-align: center;
+  border-radius: 0.25rem;
+
+  padding: 1.5rem 0;
+}
+
+// *--------------------------Section OUR working-------------------------
+
+.card-img-overlay {
+  position: relative;
+}
+
+.card-img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.working_title {
+  margin: 0;
+}
+
+// *--------------------------Section TEAM-------------------------
+
+.img_person {
+  width: 100%;
+}
+
+.section-team {
+  background-color: $light-gray-blue;
+}
+
+.img_social_person {
+  display: block;
+}
+
+// *--------------------------Section Client-------------------------
+
+.title_card {
+  color: $gray;
+}

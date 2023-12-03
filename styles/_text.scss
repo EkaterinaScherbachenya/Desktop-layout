@@ -1,0 +1,54 @@
+// *----------------------------Section FEATURE-------------------------
+
+.feature_title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.feature_text {
+  font-weight: 400;
+  color: $gray;
+}
+
+// *------------Section OUR working-------------------------
+
+.working_title {
+  text-align: center;
+  font-weight: 700;
+}
+
+.text_card {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  bottom: 0;
+  background-color: $dark-gray-blue-op;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: $white;
+}
+
+// *--------------------------Section TEAM-------------------------
+
+.h2-team {
+  text-align: center;
+  font-weight: 700;
+  
+  padding-top: 6rem;
+}
+
+
+// *--------------------------Section Client-------------------------
+
+.h2-client {
+  text-align: center;
+  font-weight: 700;
+
+  padding-top: 6rem;
+}
